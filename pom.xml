@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.careydevelopment</groupId>
   <artifactId>properties-support</artifactId>
-  <version>0.1-RELEASE</version>
+  <version>1.0-RELEASE</version>
   
     <build>
     <finalName>properties-support</finalName>
