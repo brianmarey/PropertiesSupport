@@ -10,5 +10,7 @@ public class PropertiesFile {
 	public static final String TWITTER_PROPERTIES = "/etc/tomcat8/resources/twitter.properties";
 	public static final String OPEN_WEATHER_MAP_PROPERTIES = "/etc/tomcat8/resources/openweathermap.properties";
 	public static final String AMAZON_PROPERTIES = "/etc/tomcat8/resources/amazon.properties";
+	public static final String EBAY_PROPERTIES = "/etc/tomcat8/resources/ebay.properties";
+	
 	
 }
