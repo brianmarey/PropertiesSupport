@@ -12,6 +12,7 @@ public class PropertiesFile {
 	public static final String AMAZON_PROPERTIES = "/etc/tomcat8/resources/amazon.properties";
 	public static final String EBAY_PROPERTIES = "/etc/tomcat8/resources/ebay.properties";
 	public static final String CJ_PROPERTIES = "/etc/tomcat8/resources/cj.properties";
+	public static final String CALLBACK_PROPERTIES = "/etc/tomcat8/resources/callback.properties";
 	
 	
 }
