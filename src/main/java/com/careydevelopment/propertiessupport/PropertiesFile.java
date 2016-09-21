@@ -13,6 +13,6 @@ public class PropertiesFile {
 	public static final String EBAY_PROPERTIES = "/etc/tomcat8/resources/ebay.properties";
 	public static final String CJ_PROPERTIES = "/etc/tomcat8/resources/cj.properties";
 	public static final String CALLBACK_PROPERTIES = "/etc/tomcat8/resources/callback.properties";
-	
-	
+	public static final String GOOGLE_PROPERTIES = "/etc/tomcat8/resources/google.properties";
+	public static final String SEMRUSH_PROPERTIES = "/etc/tomcat8/resources/semrush.properties";
 }
