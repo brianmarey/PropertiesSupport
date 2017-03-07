@@ -17,4 +17,5 @@ public class PropertiesFile {
 	public static final String SEMRUSH_PROPERTIES = "/etc/tomcat8/resources/semrush.properties";
 	public static final String MAJESTIC_PROPERTIES = "/etc/tomcat8/resources/majestic.properties";
 	public static final String FACEBOOK_PROPERTIES = "/etc/tomcat8/resources/facebook.properties";
+	public static final String SERPBOOK_PROPERTIES = "/etc/tomcat8/resources/serpbook.properties";
 }
